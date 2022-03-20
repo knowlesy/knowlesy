@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Powershell and Groovy 
 - ⚡ Fun fact: I love to go out on my bike 
 - 📫 How to reach me: Linkedin 
--
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
