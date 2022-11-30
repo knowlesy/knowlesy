@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on intergrating on premise infrastructure stats to report into logicmonitor via api calls, wmi queries, packer and terraform
-- 🌱 I’m currently learning Powershell and Groovy 
+- 🌱 I’m currently learning Powershell 
 - ⚡ Fun fact: I love to go out on my bike 
 - 📫 How to reach me: Linkedin 
 
