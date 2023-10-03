@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on intergrating on premise infrastructure stats to report into logicmonitor via api calls, wmi queries, packer and terraform
+- 🔭 I’m currently working on creating random projects to help me learn please view any of my existing repo's..... 
 - 🌱 I’m currently learning Powershell, terraform, kubernetes
 - ⚡ Fun fact: I love to go out on my bike 
 - 📫 How to reach me: Linkedin 
