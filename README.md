@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ps, terraform, kubernetes, git, azure, aws, puppet, nginx
 - ⚡ Fun fact: I love to go out on my bike 
 - 📫 How to reach me: Linked-In
-- 🧷 [See My Linked-In...](www.linkedin.com/in/peter-k-b1838822)
+- 🧷 [See My Linked-In...](https://www.linkedin.com/in/peter-k-b1838822)
 - 🧷 [See My Medium page...](https://medium.com/@kn0wl35y)
 
 <!--
