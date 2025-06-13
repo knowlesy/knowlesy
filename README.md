@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,git,github,ubuntu,debian,linux,kubernetes,terraform,ansible,powershell,windows,aws,py,bash,raspi,vscode,nginx,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=azure,git,github,ubuntu,debian,linux,kubernetes,terraform,ansible,powershell,windows,aws,py,bash,raspberrypi,vscode,nginx,postman&perline=14" />
   </a>
 </p>
 
