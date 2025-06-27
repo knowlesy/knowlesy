@@ -31,5 +31,9 @@
   </a>
 </p>
 
+<p align="center">
+<img src="https://duolingo-stats-card.vercel.app/api?username=jibber5525&theme=github-dark" alt="Duolingo Stats"/>
+</p>
+
 [Buy me a coffee!](https://www.paypal.com/donate/?business=XPB88THVPGN3L&no_recurring=0&item_name=Hey+thanks+for+buying+me+a+coffee+%21&currency_code=GBP)
 
