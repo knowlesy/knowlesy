@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m working on creating random projects to help me learn, please view any of my existing repo's..... 
-- 🌱 I’m learning danish, kubernetes, puppet, nginx
+- 🌱 I’m learning danish and kubernetes
 - ⚡ Fun fact: I love to go out on my bike ! 
 - 📫 How to reach me: Linked-In
 - 🧷 [See My Linked-In...](https://www.linkedin.com/in/peter-k-b1838822)
